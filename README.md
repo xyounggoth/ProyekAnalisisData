@@ -162,5 +162,4 @@ pip install streamlit pandas matplotlib seaborn plotly
     ```
 
 4. **Access The Dashboard**: After running the above command, the dashboard will open in your browser automatically. Otherwise, you can access it through the URL address displayed in the terminal, usually 'http://localhost:8501'.
-# Dicoding Collection Dashboard
 
