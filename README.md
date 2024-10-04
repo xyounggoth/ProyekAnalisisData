@@ -1,6 +1,6 @@
 # Bike Sharing Dashboard
 
-## Description
+## Overview
 The purpose of this dashboard is to analyze usage trends of bike-sharing services using data that has been collected. This dashboard, which makes use of Streamlit and Python, offers interactive visualizations to help comprehend how much service is used throughout different hours  as well as how the weather affects utilization.
 
 ## Requirements
@@ -133,8 +133,7 @@ Before running the dashboard, make sure you have installed all the following dep
 - wrapt==1.16.0
 - yarg==0.1.9
 
-  or you can read the
-  '''bash requirements.txt'''
+You can find the required packages listed in the `requirements.txt` file.
 
 ## Instalasi Dependensi
 You can install the necessary dependencies by using pip. Run the following command in the terminal:
@@ -163,4 +162,5 @@ pip install streamlit pandas matplotlib seaborn plotly
     ```
 
 4. **Access The Dashboard**: After running the above command, the dashboard will open in your browser automatically. Otherwise, you can access it through the URL address displayed in the terminal, usually 'http://localhost:8501'.
+# Dicoding Collection Dashboard
 
