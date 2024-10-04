@@ -132,7 +132,9 @@ Before running the dashboard, make sure you have installed all the following dep
 - Werkzeug==3.0.3
 - wrapt==1.16.0
 - yarg==0.1.9
-  or you can read the requirements.txt
+
+  or you can read the
+  '''bash requirements.txt'''
 
 ## Instalasi Dependensi
 You can install the necessary dependencies by using pip. Run the following command in the terminal:
